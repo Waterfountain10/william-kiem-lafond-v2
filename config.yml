@@ -1,6 +1,7 @@
 baseURL: "https://williamkiemlafond.com"
 title: "William K. Lafond"
 theme: "PaperMod"
+languageCode: "en-us"
 
 params:
   profileMode:
