@@ -1,47 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>William K. Lafond</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on William K. Lafond</description>
-    <generator>Hugo -- 0.143.1</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hey, I am William. I&amp;rsquo;m a Computer Science and Statistics student at McGill University.&lt;/p&gt;
-&lt;p&gt;I am based in Montreal, Canada. I speak French and English with an intermediate level Korean.
-My main interests are Machine Learning, Algorithms and Data Structures, and Reinforcement Learning.&lt;/p&gt;
-&lt;p&gt;I write in Go, Java, and Python&lt;/p&gt;
-&lt;p&gt;I love to watch kdramas.&lt;/p&gt;
-&lt;p&gt;I dragonboat for fun.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description>&lt;h2 id=&#34;machine-learning-intern--mila&#34;&gt;Machine Learning Intern @ Mila&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;May 2024 – Aug 2024&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;During this research / machine learning internship at Mila. I worked under Professor Bang Liu&amp;rsquo;s NLP Lab.&lt;/p&gt;
-&lt;p&gt;We were building a personal assistant for researchers. It would be desinged to access your local files as well as popular foundational models. You can also personalize it like a custom GPT-ish.
-I was mainly in charge of researching efficient graph evaluation methods for our LLM-agents. So a lot of RAG, prompt-engineering, and tinkering with different huggingface apis to optimize storage queries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;mclovin-university-dating-site---2025&#34;&gt;McLovin (University Dating Site) - 2025&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Django, PyTorch, MongoDB, Pinecone&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;My friends and I were sitting in an empty classroom one night, drowning in energy drinks and complaining about the McGill dating scene. That&amp;rsquo;s when it hit us like a caffeinated lightning bolt - why not build our own dating site just for McGill students?!&lt;/p&gt;
-&lt;p&gt;We called it McLovin.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;McLovin&amp;rsquo;s whiteboard&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/mclovinboard.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The cool part? We made it super smart using machine learning to match people up. No more awkward &amp;ldquo;what&amp;rsquo;s your sign?&amp;rdquo; conversations - our algorithms do the heavy lifting! We started using a bunch of cool algorithms like K-means clustering (basically sorts people into groups of similar vibes). Also implemented a CNN for facial (selfie) recognition to assign specific preferences to users.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>William K. Lafond</title><link>https://williamkiemlafond.netlify.app/</link><description>Recent content on William K. Lafond</description><generator>Hugo -- 0.143.1</generator><language>en-us</language><lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://williamkiemlafond.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://williamkiemlafond.netlify.app/about/</link><pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate><guid>https://williamkiemlafond.netlify.app/about/</guid><description>&lt;p>Hey, I am William. I&amp;rsquo;m a Computer Science and Statistics student at McGill University.&lt;/p>
+&lt;p>I am based in Montreal, Canada. I speak French and English with an intermediate level Korean.
+My main interests are Machine Learning, Algorithms and Data Structures, and Reinforcement Learning.&lt;/p>
+&lt;p>I write in Go, Java, and Python&lt;/p>
+&lt;p>I love to watch kdramas.&lt;/p>
+&lt;p>I dragonboat for fun.&lt;/p></description></item><item><title>Experience</title><link>https://williamkiemlafond.netlify.app/experience/</link><pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate><guid>https://williamkiemlafond.netlify.app/experience/</guid><description>&lt;h2 id="machine-learning-intern--mila">Machine Learning Intern @ Mila&lt;/h2>
+&lt;p>&lt;em>May 2024 – Aug 2024&lt;/em>&lt;/p>
+&lt;p>During this research / machine learning internship at Mila. I worked under Professor Bang Liu&amp;rsquo;s NLP Lab.&lt;/p>
+&lt;p>We were building a personal assistant for researchers. It would be desinged to access your local files as well as popular foundational models. You can also personalize it like a custom GPT-ish.
+I was mainly in charge of researching efficient graph evaluation methods for our LLM-agents. So a lot of RAG, prompt-engineering, and tinkering with different huggingface apis to optimize storage queries.&lt;/p></description></item><item><title>Projects</title><link>https://williamkiemlafond.netlify.app/projects/</link><pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate><guid>https://williamkiemlafond.netlify.app/projects/</guid><description>&lt;h2 id="mclovin-university-dating-site---2025">McLovin (University Dating Site) - 2025&lt;/h2>
+&lt;p>&lt;em>Django, PyTorch, MongoDB, Pinecone&lt;/em>&lt;/p>
+&lt;p>My friends and I were sitting in an empty classroom one night, drowning in energy drinks and complaining about the McGill dating scene. That&amp;rsquo;s when it hit us like a caffeinated lightning bolt - why not build our own dating site just for McGill students?!&lt;/p>
+&lt;p>We called it McLovin.&lt;/p>
+&lt;p>&lt;img alt="McLovin&amp;rsquo;s whiteboard" loading="lazy" src="https://williamkiemlafond.netlify.app/images/mclovinboard.jpg">&lt;/p>
+&lt;p>The cool part? We made it super smart using machine learning to match people up. No more awkward &amp;ldquo;what&amp;rsquo;s your sign?&amp;rdquo; conversations - our algorithms do the heavy lifting! We started using a bunch of cool algorithms like K-means clustering (basically sorts people into groups of similar vibes). Also implemented a CNN for facial (selfie) recognition to assign specific preferences to users.&lt;/p></description></item></channel></rss>
