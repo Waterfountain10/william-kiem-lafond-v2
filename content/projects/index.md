@@ -16,7 +16,7 @@ We called it McLovin.
 
 The cool part? We made it super smart using machine learning to match people up. No more awkward "what's your sign?" conversations - our algorithms do the heavy lifting! We started using a bunch of cool algorithms like K-means clustering (basically sorts people into groups of similar vibes). Also implemented a CNN for facial (selfie) recognition to assign specific preferences to users.
 
-Then, with all that metadata, we would compare users embeddings with cosine similarity, and playing with some weighted averages, we made our own **mtching score**.
+Then, with all that metadata, we would compare users embeddings with cosine similarity, and playing with some weighted averages, we made our own **matching score**.
 
 [mclovin's brainstorm notes (PDF)](/images/mclovinnotes.pdf)
 

@@ -1,12 +1,12 @@
 baseURL: "https://williamkiemlafond.netlify.app"
-title: "William K. Lafond"
+title: "William Kiem Lafond"
 theme: "PaperMod"
 languageCode: "en-us"
 
 params:
   profileMode:
     enabled: true
-    title: "William K. Lafond"
+    title: "William Kiem Lafond"
     subtitle: "I write backend in Go and Java."
     buttons:
       - name: About

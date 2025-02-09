@@ -9,11 +9,11 @@ draft: false
 
 During this research / machine learning internship at Mila. I worked under Professor Bang Liu's NLP Lab.
 
-We were building a personal assistant for researchers. It would be desinged to access your local files as well as popular foundational models. You can also personalize it like a custom GPT-ish.
-I was mainly in charge of researching efficient graph evaluation methods for our LLM-agents. So a lot of RAG, prompt-engineering, and tinkering with different huggingface apis to optimize storage queries.
+We were building a personal assistant for researchers. It would be designed to access your local files as well as popular foundational models. You can also tailor it for your research (like a custom GPT-ish).
+I was mainly in charge of researching efficient graph evaluation methods for our LLM-agents. So a lot of RAG, prompt-engineering, and tinkering with different huggingface APIs to optimize storage queries.
 
 I also started the app development. We chose Tauri (a highkey better version of Electron).
-Wrote some code to connect backend main APIs (huggingface, WeaviateDB, ReactJS).
+Wrote some code to route backend APIs (huggingface, WeaviateDB, ReactJS).
 
 ## Software Developer Intern @ [Ensemble AI](https://www.tryensemble.com/)
 *Jan 2024 – May 2024*
