@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>William K. Lafond</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on William K. Lafond</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hey, I am William. I&amp;rsquo;m a Computer Science and Statistics student at McGill University. I am based in Montreal, Canada. I like coding backend in Java or Go (and ML in Python).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently maintaining a CGPA of 3.88/4.00 while studying Data Structures and Algorithms, Object-Oriented/Functional Programming, Software Systems, and Intro Data Science.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;h2 id=&#34;machine-learning-intern&#34;&gt;Machine Learning Intern&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Mila Montreal, QC (May 2024 – Aug 2024)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software-developer-intern&#34;&gt;Software Developer Intern&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Ensemble AI Real-Estate Montreal, QC (Jan 2024 – May 2024)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and optimized MySQL schemas and tables using SpringBoot RESTful APIs, reducing query times for relational classification by 25%&lt;/li&gt;
+&lt;li&gt;Implemented Java integration tests with Spring Test, ensuring seamless interaction in backend services&lt;/li&gt;
+&lt;li&gt;Built 10+ reusable and dynamic front-end components in ReactJS, enhancing the OCR platform&amp;rsquo;s user interface and functionality&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;mclovin-university-dating-site&#34;&gt;McLovin (University Dating Site)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Django, PyTorch, MongoDB, Pinecone&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built a dating &amp;amp; matchmaking website exclusively for McGill students that utilizes ML-based matching&lt;/li&gt;
+&lt;li&gt;Engineered K-means clustering with PyTorch to decrease profile matching time by 10× by partitioning Pinecone queries across clusters&lt;/li&gt;
+&lt;li&gt;Implemented Docker, streamlining deployment processes and enhancing scalability, resulting in a 30% reduction in deployment time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;litcode-multiplayer-coding-game&#34;&gt;LitCode (Multiplayer Coding Game)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Flask, Next.js, MongoDB&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built a competitive multiplayer coding platform enabling real-time LeetCode battles&lt;/li&gt;
+&lt;li&gt;Developed Flask-based microservices supporting secure authentication and matchmaking that can handle 1000+ concurrent requests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;magic-chalk-virtual-whiteboard&#34;&gt;Magic Chalk (Virtual Whiteboard)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Numpy, OpenCV, TensorFlow&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

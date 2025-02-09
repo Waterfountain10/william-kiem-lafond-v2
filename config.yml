@@ -1,0 +1,51 @@
+baseURL: "https://williamkiemlafond.com"
+title: "William K. Lafond"
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    title: "William K. Lafond"
+    subtitle: "I write backend in Go and Java."
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Experience
+        url: "/experience"
+      - name: Projects
+        url: "/projects"
+
+  assets:
+    disableFingerprinting: true
+    customCSS:
+      - css/custom.css
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/Waterfountain10"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/william-kiem-lafond-98ab61233/"
+    - name: "email"
+      url: "mailto:william.lafond@mail.mcgill.ca"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: experience
+      name: Experience
+      url: /experience/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
