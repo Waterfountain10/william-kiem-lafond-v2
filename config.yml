@@ -2,6 +2,7 @@ baseURL: "https://williamkiemlafond.netlify.app"
 title: "William Kiem Lafond"
 theme: "PaperMod"
 languageCode: "en-us"
+defaultContentLanguage: "en"
 
 params:
   profileMode:
