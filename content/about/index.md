@@ -9,8 +9,8 @@ Hey, I am William. I'm a Computer Science and Statistics student at McGill Unive
 I am based in Montreal, Canada. I speak French and English fluently with an intermediate level Korean.
 My main interests are Machine Learning, Algorithms & Data Structures, and Distributed Systems.
 
-I write mainly backend in Go, Java, and Python
+I write monstly backend code in Go, Java, and Python.
 
-I love to watch kdramas.
+I love to watch k-dramas.
 
 I dragonboat for fun.

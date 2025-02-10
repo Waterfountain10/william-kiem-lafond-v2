@@ -20,7 +20,7 @@ Then, with all that metadata, we would compare users embeddings with cosine simi
 
 [mclovin's brainstorm notes (PDF)](/images/mclovinnotes.pdf)
 
-It's still not live (Feb 2025), but our goal is to have atleast a functional site before valentines...
+It's still not live (Feb 2025), but our goal is to have at least a functional site before valentines...
 
 
 
