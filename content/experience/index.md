@@ -4,7 +4,7 @@ date: 2024-02-09
 draft: false
 ---
 
-## Machine Learning Intern @ Mila
+## Machine Learning Intern @ [Mila](https://mila.quebec/en)
 *May 2024 – Aug 2024*
 
 During this research / machine learning internship at Mila. I worked under Professor Bang Liu's NLP Lab.

@@ -16,6 +16,8 @@ params:
         url: "/experience"
       - name: Projects
         url: "/projects"
+      - name: Resume
+        url: "/resume"
 
   assets:
     disableFingerprinting: true
@@ -51,9 +53,9 @@ menu:
       name: Projects
       url: /projects/
       weight: 30
-    #- identifier: resume
-    # name: Resume
-    #url: /images/resume.pdf
-    # weight: 30
-    # params:
-    #   newTab: true
+    - identifier: resume
+      name: Resume
+      url: /images/resume.pdf
+      weight: 30
+      params:
+      newTab: true

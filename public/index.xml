@@ -16,16 +16,17 @@
       <description>&lt;p&gt;Hey, I am William. I&amp;rsquo;m a Computer Science and Statistics student at McGill University.&lt;/p&gt;
 &lt;p&gt;I am based in Montreal, Canada. I speak French and English fluently with an intermediate level Korean.
 My main interests are Machine Learning, Algorithms &amp;amp; Data Structures, and Distributed Systems.&lt;/p&gt;
-&lt;p&gt;I write monstly backend code in Go, Java, and Python.&lt;/p&gt;
+&lt;p&gt;I write mostly backend code in Go, Java, and Python.&lt;/p&gt;
 &lt;p&gt;I love to watch k-dramas.&lt;/p&gt;
-&lt;p&gt;I &lt;a href=&#34;&#34;&gt;dragonboat&lt;/a&gt; for fun.&lt;/p&gt;</description>
+&lt;p&gt;I &lt;a href=&#34;https://youtu.be/XDT7Au5OJls?si=Hj8stNx3e6--jydL&#34;&gt;dragonboat&lt;/a&gt; for fun.&lt;/p&gt;
+&lt;p&gt;This website is a &lt;em&gt;casual&lt;/em&gt; representation of my skills. Please check out my &lt;strong&gt;CV&lt;/strong&gt; instead.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
-      <description>&lt;h2 id=&#34;machine-learning-intern--mila&#34;&gt;Machine Learning Intern @ Mila&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;machine-learning-intern--milahttpsmilaquebecen&#34;&gt;Machine Learning Intern @ &lt;a href=&#34;https://mila.quebec/en&#34;&gt;Mila&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;May 2024 – Aug 2024&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;During this research / machine learning internship at Mila. I worked under Professor Bang Liu&amp;rsquo;s NLP Lab.&lt;/p&gt;
 &lt;p&gt;We were building a personal assistant for researchers. It would be designed to access your local files as well as popular foundational models. You can also tailor it for your research (like a custom GPT-ish).
